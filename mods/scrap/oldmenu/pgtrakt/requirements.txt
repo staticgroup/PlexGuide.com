@@ -4,3 +4,4 @@ attrdict==2.0.0
 click==6.7
 requests~=2.20.0
 pyfiglet
+urllib3>=1.26.5 # not directly required, pinned by Snyk to avoid a vulnerability
